@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to our project
 ## What technologies are used for this project?
 This project is built with:
 - Vite
